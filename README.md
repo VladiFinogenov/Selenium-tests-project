@@ -39,13 +39,12 @@ $ source .venv/bin/activate
 (.venv) pip install -r requirements.txt
 ```
 
-5. В корневой папке проекта (re-action-backend/) необходимо создать .env файл
+5. В корневой папке проекта (Selenium-tests-project/) необходимо создать .env файл
 ```
-DEBUG=True
-
 ```
 Примечание:
 ```
+(Пока что нет ни каких данных)
 ```
 
 #### Настройка драйвера ChromeDriver
